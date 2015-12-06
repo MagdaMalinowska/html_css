@@ -1,0 +1,67 @@
+aside {
+	font-size: 18px;
+	background-color: #73ba17;
+	color: white;
+	float: left;
+	font-size: 18px;
+	margin: 10px 0;
+	padding: 4px;
+}
+main {
+	width: 300px;
+	height: 420px;
+	border: 1px solid #d5d5d5;
+	margin-bottom: 20px;
+}
+.price {
+	background: #75b3e4;
+	font-size: 16px;
+	border-radius: 70px;
+	margin: 0 auto;
+	width: 140px;
+	height: 140px;
+	position: relative;
+	bottom: 180px;
+}
+#big-circle {
+	background-color: #3a92d8;
+	width: 180px;
+	height: 180px;
+	border-radius: 90px;
+	margin: 0 auto;
+	position: relative;
+	top: -20px;
+	z-index: -1;
+}
+.number {
+  display: inline;
+	font-size: 50px;
+}
+.text {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+section {
+	background-color: #3a92d8;
+	text-align: center;
+	color: white;
+	height: 230px;
+	margin-bottom: 70px;
+}
+h1 {
+	font-size: 30px;
+	margin: 0;
+	z-index: 1;
+}
+marked {
+	font-size: 40px;
+}
+.clear {
+	clear: both;
+}
+summary {
+	font-size: 16px;
+
+}
